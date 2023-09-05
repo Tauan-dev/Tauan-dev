@@ -9,18 +9,18 @@
 </div>
 
 <p align="center">
-  E aí, pessoal! Chegando junto no meu cantinho aqui. 👋<br>Meu nome é Tauan, um cara que tá prestes a se formar em Ciências da Computação pela UESC! 🎓💻. Mas ó, não sou só um estudante, não. Tô aqui trilhando meu caminho como um verdadeiro <strong>apaixonado por resolver desafios!</strong> 🔍💡 
-  <p align="center"> E sabe o que mais? Também sou um <strong>desenvolvedor em ascensão,</strong> misturando código e café na jornada do aprendizado constante. ☕👨‍💻</p> 
+  E aí, pessoal! Chegando junto no meu cantinho aqui. 👋<br>Meu nome é Tauan, um cara que tá prestes a se formar em Ciências da Computação pela UESC! 🎓💻. Mas ó, não sou só um estudante, não. Tô aqui trilhando meu caminho como um verdadeiro <strong>apaixonado por resolver desafios!</strong> 
+  <p align="center"> E sabe o que mais? Também sou um <strong>desenvolvedor em ascensão,</strong> misturando código e café na jornada do aprendizado constante. </p> 
 <p align="center">
    Começar a <strong>codar é como dar vida a ideias,</strong> é <strong>transformar sonhos em linhas de código</strong>, e é exatamente isso que me empolga e me guia em direção ao profissional que <strong>tô louco pra me tornar</strong> e às coisas incríveis que <strong>quero realizar</strong>. 🚀🌟
 </p>
 
-Então, cola comigo nessa jornada! Vem explorar o meu GitHub e acompanhar a evolução desse dev aqui. A estrada pode ser cheia de desafios, mas é emocionante demais para ficar de fora! 🤙🔥
+Então, cola comigo nessa jornada! Vem explorar o meu GitHub e acompanhar a evolução desse dev aqui. A estrada pode ser cheia de desafios, mas é emocionante demais para ficar de fora!
 
 </p>
 
 <p align="center">
-Sou um verdadeiro entusiasta da tecnologia! 👋💻
+Sou um verdadeiro entusiasta da tecnologia! 
 </p>
 <div align="center">
  <img src="https://cdn.discordapp.com/attachments/1125892268138713201/1126574420861923438/picasion.com_0ac37155c681abdc7a8b79f8f034ebf7.gif" width="100" height="100" border="0" />
