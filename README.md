@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  E aí, pessoal! Chegando junto no meu cantinho aqui. 👋<br>Meu nome é Tauan, um cara que tá prestes a se formar em Ciências da Computação pela UESC! 🎓💻. Mas ó, não sou só um estudante, não. Tô aqui trilhando meu caminho como um verdadeiro <strong>apaixonado por resolver desafios!</strong> 
+  E aí, pessoal! Chegando junto no meu cantinho aqui. 👋<br>Meu nome é Tauan, estou prestes a se formar em Ciências da Computação pela UESC! 🎓💻. Mas ó, não sou só um estudante, não. Tô aqui trilhando meu caminho como um verdadeiro <strong>apaixonado por resolver desafios!</strong> 
   <p align="center"> E sabe o que mais? Também sou um <strong>desenvolvedor em ascensão,</strong> misturando código e café na jornada do aprendizado constante. </p> 
 <p align="center">
    Começar a <strong>codar é como dar vida a ideias,</strong> é <strong>transformar sonhos em linhas de código</strong>, e é exatamente isso que me empolga e me guia em direção ao profissional que <strong>tô louco pra me tornar</strong> e às coisas incríveis que <strong>quero realizar</strong>. 🚀🌟
@@ -19,8 +19,6 @@ Então, cola comigo nessa jornada! Vem explorar o meu GitHub e acompanhar a evol
 
 </p>
 
-<p align="center">
-Sou um verdadeiro entusiasta da tecnologia! 
 </p>
 <div align="center">
  <img src="https://cdn.discordapp.com/attachments/1125892268138713201/1126574420861923438/picasion.com_0ac37155c681abdc7a8b79f8f034ebf7.gif" width="100" height="100" border="0" />
@@ -32,10 +30,10 @@ Sou um verdadeiro entusiasta da tecnologia!
 
 ### 💼 Habilidades Técnicas
 
-🖥️ Linguagens de Programação : Python, JavaScript, Java, C, Lua <br>
-⚙️ Frameworks e Bibliotecas : React, Bootstrap, Material UI.<br>
+🖥️ Linguagens de Programação : Typescript, JavaScript, C <br>
+⚙️ Frameworks e Bibliotecas : React, Bootstrap, Material UI, Nest, NodeJs com Express.<br>
 🛠️ Ferramentas de Desenvolvimento : Git, VS Code.<br>
-📊 Banco de Dados e Gerenciamento de Dados : SQL, MongoDB, PostgreSql.<br>
+📊 Banco de Dados e Gerenciamento de Dados : MySQL, MongoDB, PostgreSql.<br>
 🎨 Habilidades em Design : UI/UX, Figma.
 
 ### 🤝 Habilidades de Comunicação e Colaboração
@@ -83,10 +81,8 @@ Sou um verdadeiro entusiasta da tecnologia!
 ## 👩‍💻 Stack
 
 - **Backend Node JS**
-- **Frontend JavaScript**
-- **HTML**
-- **CSS**
-- **React**
+- **Frontend React**
+- **Mobile React Native**
 
 </div>
 
@@ -96,9 +92,8 @@ Sou um verdadeiro entusiasta da tecnologia!
 
 - **Material UI**
 - **Next**
-- **SASS**
-- **Ruby**
-- **IOT**
+- **Nest**
+- **React Native**
 - **Arduino**
 
 </div>
@@ -118,6 +113,7 @@ Sou um verdadeiro entusiasta da tecnologia!
   <a href="https://www.linkedin.com/in/tauan-neres-585b02199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
+  
 </div>
 
 ## 💻 Tecnologias e Ferramentas
@@ -130,15 +126,14 @@ Sou um verdadeiro entusiasta da tecnologia!
   <img align="center" alt="Tauan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Tauan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Tauan-Lua" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
   <img align="center" alt="Tauan-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Tauan-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Tauan-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Tauan-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Tauan-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Tauan-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+ <img align="center" alt="Tauan-VSCode" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+
+
 </div>
  <br>
 
