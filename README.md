@@ -30,7 +30,7 @@ Então, cola comigo nessa jornada! Vem explorar o meu GitHub e acompanhar a evol
 
 ### 💼 Habilidades Técnicas
 
-🖥️ Linguagens de Programação : Typescript, JavaScript, C <br>
+🖥️ Linguagens de Programação : Typescript, JavaScript, C, Python, Go, SQL <br>
 ⚙️ Frameworks e Bibliotecas : Nest, Node.Js, Express.js, React, Bootstrap, Material UI <br>
 🛠️ Ferramentas de Desenvolvimento : Git, VS Code.<br>
 📊 Banco de Dados e Gerenciamento de Dados : MySQL, MongoDB, PostgreSql.<br>
