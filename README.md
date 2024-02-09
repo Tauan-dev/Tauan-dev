@@ -88,7 +88,7 @@ Então, cola comigo nessa jornada! Vem explorar o meu GitHub e acompanhar a evol
 
 <div >
 
-## 🚀 Aprendendo
+## 🚀 Aprendendo (Com algumas anotações dos conteúdos abaixo, quem saiba possa ajudar)
 
 - **Clean Code** : https://navy-gourd-9e0.notion.site/Clean-Code-17f29b3447004e3cba80a3cf6c201fbd
 - **Clean Architecture**
