@@ -31,7 +31,7 @@ Então, cola comigo nessa jornada! Vem explorar o meu GitHub e acompanhar a evol
 ### 💼 Habilidades Técnicas
 
 🖥️ Linguagens de Programação : Typescript, JavaScript, C <br>
-⚙️ Frameworks e Bibliotecas : React, Bootstrap, Material UI, Nest, NodeJs com Express.<br>
+⚙️ Frameworks e Bibliotecas : Nest, Node.Js, Express.js, React, Bootstrap, Material UI <br>
 🛠️ Ferramentas de Desenvolvimento : Git, VS Code.<br>
 📊 Banco de Dados e Gerenciamento de Dados : MySQL, MongoDB, PostgreSql.<br>
 🎨 Habilidades em Design : UI/UX, Figma.
@@ -80,9 +80,9 @@ Então, cola comigo nessa jornada! Vem explorar o meu GitHub e acompanhar a evol
 
 ## 👩‍💻 Stack
 
-- **Backend Node JS**
+- **Backend Node JS** and **Nest JS**
 - **Frontend React**
-- **Mobile React Native**
+
 
 </div>
 
@@ -90,11 +90,12 @@ Então, cola comigo nessa jornada! Vem explorar o meu GitHub e acompanhar a evol
 
 ## 🚀 Aprendendo
 
-- **Material UI**
-- **Next**
-- **Nest**
-- **React Native**
-- **Clean Code**
+- **Clean Code** : https://navy-gourd-9e0.notion.site/Clean-Code-17f29b3447004e3cba80a3cf6c201fbd
+- **Clean Architecture**
+- **Nest** : https://navy-gourd-9e0.notion.site/Nest-js-99a9a2ebc8e2426b80774bf404c70745
+- **SOLID** : https://navy-gourd-9e0.notion.site/SOLID-8e311e1586094bf0b60a08465113ed29
+- **Testes (Jest)**
+
 
 </div>
 
