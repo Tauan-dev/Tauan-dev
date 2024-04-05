@@ -4,15 +4,10 @@
 
 </span>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width="500px" height="230px"/>
-</div>
 
 <p align="center">
-  E aí, pessoal! Chegando junto no meu cantinho aqui. 👋<br>Meu nome é Tauan, estou prestes a se formar em Ciências da Computação pela UESC! 🎓💻. Mas ó, não sou só um estudante, não. Tô aqui trilhando meu caminho como um verdadeiro <strong>apaixonado por resolver desafios!</strong> 
-  <p align="center"> E sabe o que mais? Também sou um <strong>desenvolvedor em ascensão,</strong> misturando código e café na jornada do aprendizado constante. </p> 
-<p align="center">
-   Começar a <strong>codar é como dar vida a ideias,</strong> é <strong>transformar sonhos em linhas de código</strong>, e é exatamente isso que me empolga e me guia em direção ao profissional que <strong>tô louco pra me tornar</strong> e às coisas incríveis que <strong>quero realizar</strong>. 🚀🌟
+  <br>Meu nome é Tauan. E estou trilhando meu caminho como um desenvolvedor FullStack apaixonado por resolver desafios!
+   Começar a codar é como dar vida a ideias, é transformar-las em linhas de código, e é exatamente isso que me empolga e me guia em direção ao profissional que pretendo ser.
 </p>
 
 Então, cola comigo nessa jornada! Vem explorar o meu GitHub e acompanhar a evolução desse dev aqui. A estrada pode ser cheia de desafios, mas é emocionante demais para ficar de fora!
