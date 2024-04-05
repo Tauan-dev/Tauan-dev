@@ -85,10 +85,10 @@
 
 ## 🚀 Aprendendo (Com algumas anotações dos conteúdos abaixo, quem saiba possa ajudar)
 
-- **Clean Code** : https://navy-gourd-9e0.notion.site/Clean-Code-17f29b3447004e3cba80a3cf6c201fbd
+- **Clean Code** : https://tauan-neres-dev.notion.site/Clean-Code-17f29b3447004e3cba80a3cf6c201fbd?pvs=74
 - **Clean Architecture**
-- **Nest** : https://navy-gourd-9e0.notion.site/Nest-js-99a9a2ebc8e2426b80774bf404c70745
-- **SOLID** : https://navy-gourd-9e0.notion.site/SOLID-8e311e1586094bf0b60a08465113ed29
+- **Nest** : https://tauan-neres-dev.notion.site/Nest-js-99a9a2ebc8e2426b80774bf404c70745
+- **SOLID** : https://tauan-neres-dev.notion.site/SOLID-8e311e1586094bf0b60a08465113ed29?pvs=74
 - **Testes (Jest)**
 
 </div>
