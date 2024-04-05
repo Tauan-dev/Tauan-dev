@@ -1,32 +1,33 @@
-<span align="center">
+<span>
 
 # Hello World! 👋
 
 </span>
 
-
-<p align="center">
+<p align="justify">
   <br>Meu nome é Tauan. E estou trilhando meu caminho como um desenvolvedor FullStack apaixonado por resolver desafios!
-   Começar a codar é como dar vida a ideias, é transformar-las em linhas de código, e é exatamente isso que me empolga e me guia em direção ao profissional que pretendo ser.
+  Começar a codar é como dar vida a ideias, e transformar-las em linhas de código, e é exatamente isso que me empolga e me guia em direção ao profissional que pretendo ser.
 </p>
 
-Então, cola comigo nessa jornada! Vem explorar o meu GitHub e acompanhar a evolução desse dev aqui. A estrada pode ser cheia de desafios, mas é emocionante demais para ficar de fora!
+
+## Sobre Mim
+
+- 🎓 Graduando em Ciência da Computação pela UESC (Previsão Formatura 2024.2).
+- 💻 Desenvolvedor de sistemas FullStack com enfase em Backend.
+- 🚀 Aprendendo e crescendo constantemente no mundo do desenvolvimento de software.
+- ☕️ Curioso com arquitetura de sistemas, busco pesquisar e entender esses conceitos em uma jornada de aprendizado.
 
 </p>
 
-</p>
-<div align="center">
- <img src="https://cdn.discordapp.com/attachments/1125892268138713201/1126574420861923438/picasion.com_0ac37155c681abdc7a8b79f8f034ebf7.gif" width="100" height="100" border="0" />
- </div>
 
-<div >
+
 
 ## 🚀 Habilidades
 
 ### 💼 Habilidades Técnicas
 
-🖥️ Linguagens de Programação : Typescript, JavaScript, C, Python, Go, SQL <br>
-⚙️ Frameworks e Bibliotecas : Nest, Node.Js, Express.js, React, Bootstrap, Material UI <br>
+🖥️ Linguagens de Programação : Typescript, JavaScript, C/C++, Python, Go, SQL <br>
+⚙️ Frameworks e Bibliotecas : Nest, Node.Js, Express.js, React, Vue, Bootstrap, Material UI <br>
 🛠️ Ferramentas de Desenvolvimento : Git, VS Code.<br>
 📊 Banco de Dados e Gerenciamento de Dados : MySQL, MongoDB, PostgreSql.<br>
 🎨 Habilidades em Design : UI/UX, Figma.
@@ -78,7 +79,6 @@ Então, cola comigo nessa jornada! Vem explorar o meu GitHub e acompanhar a evol
 - **Backend Node JS** and **Nest JS**
 - **Frontend React**
 
-
 </div>
 
 <div >
@@ -90,7 +90,6 @@ Então, cola comigo nessa jornada! Vem explorar o meu GitHub e acompanhar a evol
 - **Nest** : https://navy-gourd-9e0.notion.site/Nest-js-99a9a2ebc8e2426b80774bf404c70745
 - **SOLID** : https://navy-gourd-9e0.notion.site/SOLID-8e311e1586094bf0b60a08465113ed29
 - **Testes (Jest)**
-
 
 </div>
 
