@@ -26,58 +26,40 @@
 
 ### 💼 Habilidades Técnicas
 
-🖥️ Linguagens de Programação : Typescript, JavaScript, C/C++, Python, Go, SQL <br>
-⚙️ Frameworks e Bibliotecas : Nest, Node.Js, Express.js, React, Vue, Bootstrap, Material UI <br>
-🛠️ Ferramentas de Desenvolvimento : Git, VS Code.<br>
+🖥️ Linguagens de Programação : Typescript, JavaScript, C#, C/C++, Python, Go, SQL <br>
+⚙️ Frameworks e Bibliotecas : .NET, Nest, Node.Js, Express.js, React, Vue, Bootstrap, Material UI <br>
+🛠️ Ferramentas de Desenvolvimento : Git e Gitflow.<br>
 📊 Banco de Dados e Gerenciamento de Dados : MySQL, MongoDB, PostgreSql.<br>
 🎨 Habilidades em Design : UI/UX, Figma.
 
-### 🤝 Habilidades de Comunicação e Colaboração
+### Habilidades de Comunicação e Colaboração
 
-🗣️ Comunicação Efetiva<br>
-👥 Trabalho em Equipe<br>
-🌐 Colaboração Remota<br>
-📆 Gerenciamento de Projetos <br>
-📝 Documentação Clara e Concisa<br>
-📢 Apresentação e Comunicação em Público<br>
-🧭 Coordenar Equipes Multidisciplinares<br>
+ Trabalho em Equipe<br>
+ Colaboração Remota<br>
+ Documentação Clara e Concisa<br>
+ Apresentação e Comunicação em Público<br>
 
-### 🛠️ Habilidades de Resolução de Problemas
 
-🧠 Pensamento Crítico<br>
+### 🛠 Habilidades de Resolução de Problemas
+
 🔍 Solução de Problemas Complexos<br>
-🐞 Debugging
 
-### 🧠 Habilidades Pessoais
+###  Habilidades Pessoais
 
-🚀 Aprendizado Rápido<br>
-🔄 Adaptabilidade<br>
-🎨 Criatividade <br>
-👂 Empatia <br>
-📈 Pensamento Estratégico <br>
-🤔 Resiliência
+Aprendizado Rápido<br>
+Adaptabilidade<br>
+Criatividade <br>
+Resiliência
 
-### 🏆 Habilidades de Liderança
-
-🤝 Liderança de Equipe<br>
-🤔 Tomada de Decisão<br>
-👥 Gestão de Pessoas <br>
-💡 Visão Estratégica<br>
-🎯 Foco em Resultados<br>
-🧠 Mentoria e Desenvolvimento<br>
-
-### 🌎 Línguas
+### Línguas
 
 🌐 Habilidades em Línguas Estrangeiras: Inglês intermediário
 
-</div>
-
-<div >
 
 ## 👩‍💻 Stack
 
-- **Backend Node JS** and **Nest JS**
-- **Frontend React**
+- **Backend : .NET Entity Framework , Node JS** and **Nest JS**
+- **Frontend: Angular, Next and React**
 
 </div>
 
@@ -126,7 +108,6 @@
   <img align="center" alt="Tauan-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Tauan-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Tauan-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- <img align="center" alt="Tauan-VSCode" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 
 </div>
  <br>
