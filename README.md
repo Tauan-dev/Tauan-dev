@@ -12,25 +12,25 @@
 
 ## Sobre Mim
 
-- 🎓 Graduando em Ciência da Computação pela UESC (Previsão Formatura 2024.2).
-- 💻 Desenvolvedor de sistemas FullStack com enfase em Backend.
-- 🚀 Aprendendo e crescendo constantemente no mundo do desenvolvimento de software.
-- ☕️ Curioso com arquitetura de sistemas, busco pesquisar e entender esses conceitos em uma jornada de aprendizado.
+-  Graduando em Ciência da Computação pela UESC (Previsão Formatura 2024.2).
+-  Desenvolvedor de sistemas FullStack com enfase em Backend.
+-  Aprendendo e crescendo constantemente no mundo do desenvolvimento de software.
+-  Curioso com arquitetura de sistemas, busco pesquisar e entender esses conceitos em uma jornada de aprendizado.
 
 </p>
 
 
 
 
-## 🚀 Habilidades
+##  Habilidades
 
-### 💼 Habilidades Técnicas
+###  Habilidades Técnicas
 
-🖥️ Linguagens de Programação : Typescript, JavaScript, C#, C/C++, Python, Go, SQL <br>
-⚙️ Frameworks e Bibliotecas : .NET, Nest, Node.Js, Express.js, React, Vue, Bootstrap, Material UI <br>
-🛠️ Ferramentas de Desenvolvimento : Git e Gitflow.<br>
-📊 Banco de Dados e Gerenciamento de Dados : MySQL, MongoDB, PostgreSql.<br>
-🎨 Habilidades em Design : UI/UX, Figma.
+ Linguagens de Programação : Typescript, JavaScript, C#, C/C++, Python, Go, SQL <br>
+ Frameworks e Bibliotecas : .NET, Nest, Node.Js, Express.js, React, Vue, Bootstrap, Material UI <br>
+ Ferramentas de Desenvolvimento : Git e Gitflow.<br>
+ Banco de Dados e Gerenciamento de Dados : MySQL, MongoDB, PostgreSql.<br>
+ Habilidades em Design : UI/UX, Figma.
 
 ### Habilidades de Comunicação e Colaboração
 
@@ -39,10 +39,6 @@
  Documentação Clara e Concisa<br>
  Apresentação e Comunicação em Público<br>
 
-
-### 🛠 Habilidades de Resolução de Problemas
-
-🔍 Solução de Problemas Complexos<br>
 
 ###  Habilidades Pessoais
 
@@ -53,10 +49,10 @@ Resiliência
 
 ### Línguas
 
-🌐 Habilidades em Línguas Estrangeiras: Inglês intermediário
+Habilidades em Línguas Estrangeiras: Inglês intermediário
 
 
-## 👩‍💻 Stack
+## Stack
 
 - **Backend : .NET Entity Framework , Node JS** and **Nest JS**
 - **Frontend: Angular, Next and React**
