@@ -12,7 +12,7 @@
 
 ## Sobre Mim
 
--  Graduando em Ciência da Computação pela UESC (Previsão Formatura 2024.2).
+-  Bacharel em Ciência da Computação pela UESC .
 -  Desenvolvedor de sistemas FullStack com enfase em Backend.
 -  Aprendendo e crescendo constantemente no mundo do desenvolvimento de software.
 -  Curioso com arquitetura de sistemas, busco pesquisar e entender esses conceitos em uma jornada de aprendizado.
