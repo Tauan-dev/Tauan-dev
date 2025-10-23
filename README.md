@@ -18,7 +18,7 @@ Atualmente trabalho na CEPEDI, participando do desenvolvimento de um sistema ERP
 
 ---
 
-## 💼 Experiência selecionada
+## 💼 Experiência 
 
 - **CEPEDI** (Jul 2024 — presente)
 
@@ -57,7 +57,7 @@ Atualmente trabalho na CEPEDI, participando do desenvolvimento de um sistema ERP
 
 ---
 
-## 🛠 Tecnologias (selecionadas)
+## 🛠 Tecnologias 
 
 Aqui estão as principais tecnologias com badges estáveis (shields.io) — ícones carregam com alta disponibilidade:
 
