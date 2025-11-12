@@ -59,8 +59,6 @@ Atualmente trabalho na CEPEDI, participando do desenvolvimento de um sistema ERP
 
 ## 🛠 Tecnologias 
 
-Aqui estão as principais tecnologias com badges estáveis (shields.io) — ícones carregam com alta disponibilidade:
-
 <div align="left">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5A29E4?style=for-the-badge&logo=.net&logoColor=white" />
@@ -71,6 +69,8 @@ Aqui estão as principais tecnologias com badges estáveis (shields.io) — íco
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 </div>
 
 <br/>
